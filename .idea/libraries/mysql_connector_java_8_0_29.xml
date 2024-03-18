@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../../java/fastjson-1.2.83.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../../java/xstream-1.4.19/lib/xstream-1.4.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
