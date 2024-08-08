@@ -1,5 +1,3 @@
-以下是 JPetStore 项目的 README 文档示例，用于上传到 GitHub：
-
 ---
 
 # JPetStore
